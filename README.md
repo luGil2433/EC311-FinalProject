@@ -6,7 +6,7 @@ Inspired by https://github.com/chmo2019/EC311_Final_Project
 
 Video Demonstration
 
-If you'd like to check out our game, here's the link: 
+If you'd like to check out our game, here's the link: https://youtu.be/HL1NabnuTr0
 
 Project Overview
 
